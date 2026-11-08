@@ -1,0 +1,11 @@
+# Install torch first (CPU build, ~200 MB):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+ultralytics
+transformers>=4.49
+accelerate
+huggingface_hub
+Pillow
+numpy
+gradio
+gTTS
+pyttsx3
